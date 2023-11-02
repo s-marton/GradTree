@@ -1,0 +1,2 @@
+score,n_thresholds,n_trees,max_iter,cross_prob,mutation_prob,n_elitism,early_stopping,n_iter_no_change,cross_both,mutation_replace,initial_depth,split_prob,random_state
+0.7423857732861775,10,500,250,0.6000000000000001,0.4,3,True,100,True,False,1,0.7,42

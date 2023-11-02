@@ -1,0 +1,2 @@
+score,depth,normalize,learning_rate_index,learning_rate_leaf,learning_rate_values,optimize,dropout,split_index_activation_beta,split_index_activation,output_activation,initializer,prunePostHoc,prune_threshold,loss,polyLoss,polyLossEpsilon
+0.9041036117220074,10,,0.005,0.01,0.01,SWA,0.0,1.0,entmax,softmax,GlorotUniform,True,1,crossentropy,False,2
