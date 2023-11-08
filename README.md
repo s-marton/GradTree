@@ -16,6 +16,17 @@ pip install GradTree
 ```
 More details can be found under: https://pypi.org/project/GradTree/
 
+## Cite us
+
+```
+@article{marton2023learning,
+  title={GradTree: Learning Axis-Aligned Decision Trees with Gradient Descent},
+  author={Marton, Sascha and Lüdtke, Stefan and Bartelt, Christian and Stuckenschmidt, Heiner},
+  journal={arXiv preprint arXiv:2305.03515},
+  year={2023}
+}
+```
+
 ## Usage
 Example usage is in the following or available in ***GradTree_minimal_example.ipynb***. Please note that a GPU is required to achieve competitive runtimes.
 
