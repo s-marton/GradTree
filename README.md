@@ -59,10 +59,9 @@ from GradTree import GradTree
 params = {
         'depth': 5,
 
-        'learning_rate_weights': 0.005,
         'learning_rate_index': 0.01,
         'learning_rate_values': 0.01,
-        'learning_rate_leaf': 0.01,
+        'learning_rate_leaf': 0.005,
 
         'optimizer': 'SWA',
         'cosine_decay_steps': 0,
@@ -73,7 +72,6 @@ params = {
         'focal_loss': False,
         'temperature': 0.0,
 
-        'from_logits': True,
         'apply_class_balancing': True,
 }
 
