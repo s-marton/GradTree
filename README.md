@@ -75,11 +75,6 @@ params = {
 
         'from_logits': True,
         'apply_class_balancing': True,
-
-        'dropout': 0.0,
-
-        'selected_variables': 0.8,
-        'data_subset_fraction': 1.0,
 }
 
 args = {
