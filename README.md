@@ -58,7 +58,6 @@ from GradTree import GradTree
 
 params = {
         'depth': 5,
-        'n_estimators': 2048,
 
         'learning_rate_weights': 0.005,
         'learning_rate_index': 0.01,
