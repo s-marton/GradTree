@@ -9,6 +9,17 @@
 
 📝 Details on the method can be found in the preprint available under: https://arxiv.org/abs/2305.03515
 
+
+## 🚀 Follow-Up Work: "GRANDE: Gradient-Based Decision Tree Ensembles"
+🌳 GRANDE is a novel gradient-based decision tree ensemble method for tabular data: https://github.com/s-marton/GRANDE
+
+🔍 What's new?
+- End-to-end gradient descent for tree ensembles
+- Combines inductive bias of hard, axis-aligned splits with the flexibility of a gradient descent optimization
+- Advanced instance-wise weighting to learn representations for both simple & complex relations in one model
+
+📝 More details can be found in our prepring: https://arxiv.org/abs/2309.17130
+
 ## Installation
 To download the latest official release of the package, use a pip command below:
 ```bash
