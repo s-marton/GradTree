@@ -28,13 +28,15 @@ pip install GradTree
 More details can be found under: https://pypi.org/project/GradTree/
 
 ## Cite us
-
 ```
-@article{marton2023learning,
-  title={GradTree: Learning Axis-Aligned Decision Trees with Gradient Descent},
-  author={Marton, Sascha and Lüdtke, Stefan and Bartelt, Christian and Stuckenschmidt, Heiner},
-  journal={arXiv preprint arXiv:2305.03515},
-  year={2023}
+@inproceedings{marton2024gradtree,
+  title={GradTree: Learning axis-aligned decision trees with gradient descent},
+  author={Marton, Sascha and L{\"u}dtke, Stefan and Bartelt, Christian and Stuckenschmidt, Heiner},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={13},
+  pages={14323--14331},
+  year={2024}
 }
 ```
 
