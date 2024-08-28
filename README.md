@@ -1,5 +1,8 @@
 # 🌳 GradTree: Gradient-Based Decision Trees 🌳
 
+[![PyPI version](https://img.shields.io/pypi/v/GradTree)](https://pypi.org/project/GradTree/) [![arXiv](https://img.shields.io/badge/arXiv-2305.03515-b31b1b.svg)](https://arxiv.org/abs/2305.03515)
+
+
 🌳 GradTree is a novel approach for learning hard, axis-aligned decision trees with gradient descent!
 
 🔍 What's new?
