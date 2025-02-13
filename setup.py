@@ -11,7 +11,7 @@ setup(
         'tensorflow_addons>=0.21.0',
         'tensorflow==2.13',
         'numpy>=1.23.2',
-        'scikit_learn>=1.3.0',
+        'scikit-learn>=1.3.0,<1.6.0',
     ],
     author="Sascha Marton",
     author_email="sascha.marton@gmail.com",
